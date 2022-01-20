@@ -2,7 +2,7 @@
 Lori Zakalik's portfolio for Telling Stories with Data, CMU Heinz College, Spring 2022
 
 # About Me
-My name is Lori Zakalik, pronouns she/her/hers, and I am a second year MSPPM-DA student. I'm originally from New York and moved to Pittsburgh in August 2020 for graduate school. Before coming to Heinz, I worked in marketing and communications for nonprofit organizations of varying scopes and sizes. A large part of my job was to use data to develop marketing and communications strategies and evaluate their effectiveness. 
+My name is Lori Zakalik, pronouns she/her/hers, and I am a second year MSPPM-DA student. I'm originally from New York and moved to Pittsburgh in August 2020 for graduate school. Before coming to Heinz, I worked in marketing and communications for nonprofit organizations of varying scopes and sizes. A large part of my job was to use data to both develop marketing and communications strategies and to evaluate their effectiveness. 
 
 I enrolled in the Public Policy and Management-Data Analytics program because I wanted to strengthen my data skills and be less reliant on others to pull, clean, and organize data for me. I also wanted to transition from the nonprofit sector to the public sector. 
 
