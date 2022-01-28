@@ -1,2 +1,2 @@
 # Assignment: Visualizing government debt
-<div src="https://data.oecd.org/chart/6Bee" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bee" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></div>
+<iframe src="https://data.oecd.org/chart/6Bee" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"></iframe>
