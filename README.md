@@ -17,6 +17,7 @@ Throughout my career I've given presentations in which I had to create data visu
 [View Visualizations](https://lzak88.github.io/zakalik-portfolio/datavizhw2.html)
 
 **Assignment: Critique By Design**
+
 [View Assignment](https://lzak88.github.io/zakalik-portfolio/hw3-4.html)
 
 **Final Project**
