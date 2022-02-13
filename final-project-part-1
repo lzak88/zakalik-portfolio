@@ -16,7 +16,8 @@ Mass incarceration in the United States led to overcrowding in the US prison sys
 
 **COVID-19 in Prisons:**
 * Here I plan to discuss how overcrowding made social distancing in prisons impossible. 
-* Show number of prison COVID cases versus the general population and a demographic breakdown of COVID cases.
+* Show number of prison COVID cases versus the general population 
+* Show a demographic breakdown of COVID cases.
 * Discuss how vaccine distribution was slower in prisons than in the general population. 
 * Visualization of COVID vaccination rates per state.
 
@@ -37,7 +38,14 @@ My first data source is [statista.com](https://www.statista.com/statistics/26296
 
 My next data sources are the [Bureau of Prisons](https://www.bop.gov/about/statistics/statistics_inmate_race.jsp) and the [US Census](https://www.census.gov/quickfacts/fact/table/US/PST045221). I will use data from these two agencies to show that the US disproportionately incarcerates people of color. This will also tie into the demographic breakdown of COVID-19 cases within prisons, and how people of color are being infected and dying at a higher rate than their white counterparts. 
 
+I am then going to use [the visualization](https://lzak88.github.io/zakalik-portfolio/hw3-4.html) I redesigned from the last homework assignment to show COVID case counts in the prison population as compared to the general population. 
 
+I will use [data on COVID cases in Texas](https://docs.google.com/spreadsheets/d/1mOS1wggvyRUOpI-u2VabmnQ1yJPPEgOc2zdZjWxbAwQ/edit#gid=0) from the Texas Justice Initiative as a proxy for prison conditions around the country to illustrate COVID-19's impact broken down by race and enthnicity. 
+
+I am going to use [this data from PrisonPolicy.org](https://www.prisonpolicy.org/blog/2021/05/18/vaccinationrates/#prisonappendix) and cite this [New York Times article](https://www.nytimes.com/2021/05/22/us/covid-prison-vaccine.html) to show the slow rollout of vaccines within prisons.
+
+Finally, I would like to use the data in [this chart](https://static.prisonpolicy.org/images/nonmetro_covid.webp) (though I couldn't find the original data set) to show how all of these factors are also impacting COVID cases in the communities surrounding prisons.
+ 
 ### Method and Medium
 
 
