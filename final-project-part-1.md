@@ -30,6 +30,9 @@ Mass incarceration in the United States led to overcrowding in the US prison sys
 * I plan to share links to support the work of some criminal justice organizations as well as a directive to call federal, state, and local representatives to demand equitable vaccine access for incarcerated populations and to encourage decarceration.
 
 ### Sketches
+![Image](https://raw.githubusercontent.com/lzak88/zakalik-portfolio/main/Sketch1.png)
+![Image](https://raw.githubusercontent.com/lzak88/zakalik-portfolio/main/Sketch2.png)
+![Image](https://raw.githubusercontent.com/lzak88/zakalik-portfolio/main/Sketch3.png)
 
 ### Data
 For this project, I intend to use data from a number of sources, many of which are doing important work on highlighting the disparities in our criminal justice system through the lens of the COVID-19 pandemic. I am pulling from a variety of sources because many places are doing related work than I intend to synthesize in my final project.
