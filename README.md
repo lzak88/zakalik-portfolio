@@ -21,4 +21,5 @@ Throughout my career I've given presentations in which I had to create data visu
 [View Assignment](https://lzak88.github.io/zakalik-portfolio/hw3-4.html)
 
 **Final Project Part One**
+
 [View Assignment](https://lzak88.github.io/zakalik-portfolio/final-project-part-1.html)
