@@ -10,7 +10,7 @@ View the Shorthand story, [COVID-19, Mass Incarceration, and Community Spread](h
 I decided to adjust my target audience slightly to focus more on those who live in communities with prisons. I felt that my previous audience of criminal justice and public health advocates probably already know much of what I touched upon in this project, but everyday people were most likely less informed. Below I share the changes I made to achieve the goal of educating communities on the root causes of COVID-19 spread both inside and outside of prisons, as well as what these communities can do to prevent this from happening the next time we face a public health crisis.
 
 ## Implementation of Changes
-After speaking with my three individuals, I decided to lose the map of incarceration around the world and just do the bar graph, however I am going to change it to a graph of incarceration rate rather than count to show just much worse the US incarceration system is compared to the rest of the world.
+The largest change I made to my 
 
 I am going to remove the demographic breakdown in prisons because all my interviewees and classmates felt it was superfluous and disjointed.
 
