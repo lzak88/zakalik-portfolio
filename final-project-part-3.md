@@ -10,15 +10,11 @@ View the Shorthand story, [COVID-19, Mass Incarceration, and Community Spread](h
 I decided to adjust my target audience slightly to focus more on those who live in communities with prisons. I felt that my previous audience of criminal justice and public health advocates probably already know much of what I touched upon in this project, but everyday people were most likely less informed. Below I share the changes I made to achieve the goal of educating communities on the root causes of COVID-19 spread both inside and outside of prisons, as well as what these communities can do to prevent this from happening the next time we face a public health crisis.
 
 ## Implementation of Changes
-The largest change I made to my 
+The largest change I made to my project was adjusting the hook at the beginning of my story. I had originally started with a statement about the United States incarcerating more people than any other country in the world. I felt that since I was narrowing the scope of my audience to focus on those who live in communities surrounding prisons, I should start with a hook about how this story directly impacts them.
 
-I am going to remove the demographic breakdown in prisons because all my interviewees and classmates felt it was superfluous and disjointed.
+After that, the storyline essentially remained the same, however I removed the section about the demographic breakdown in prisons because all my interviewees and classmates felt it was superfluous and disjointed from the rest of the story. I really liked the infographic that accompanied that statistic though, so I adjusted it to use for the demographic breakdown of how COVID-19 in prison impacts people of color. 
 
-The people infographic I used for the prison demographics, I am now going to use for the demographic breakdown of how COVID impacts people of color. I am also going to update the shade of orange used in the people infographic to match the shade of orange used everywhere else.
-
-I was also using the wrong html box for my visualizations, so I am going to use the html block, rather than the copy column block, which will hopefully make my visualizations larger. This is especially useful for the vaccination rate chart where you currently have to scroll. I am also going to add a label to the vaccinate rate line in that chart and remove the gridlines to make the general population vaccination rate line stand out more.
-
-Finally, for the community spread chart, I am going to come up with a simpler title that does a better job of explaining the graph, and I am going to try a few other layouts, including a box plot, since the scatter plot doesn’t work super well for percentiles.
+In terms of visualizations, the biggest change was to remove the map chart from the top of the presentation since the bar chart tells the same story but in a clearer way. I also adjusted the community spread graphic to make it a line chart. I think that will help show the growth in COVID-19 cases as incarceration levels rise. With 5 percentiles as data points, a scatter plot looks a little sparse and confusing. I also updated the title of that graph to make it clear what I was trying to depict.
 
 I am planning to update the call-to-action graphic title to “You Can Help Stop the Spread of COVID-19.” I also plan to make key points in my story stand out more by changing the size or color of words, or by bolding them.
 
