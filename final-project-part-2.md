@@ -2,7 +2,7 @@
 
 Visit the [Final Project Part One page](https://lzak88.github.io/zakalik-portfolio/final-project-part-1.html)
 
-Head back to [main portfolio page](https://lzak88.github.io/zakalik-portfolio/)
+Return to the [main portfolio page](https://lzak88.github.io/zakalik-portfolio/)
 
 ## Wireframes and storyboards
 I created my wireframes and storyboard in Shorthand. You can find it [here](https://preview.shorthand.com/2ykRfyryoXzkcAr2).
