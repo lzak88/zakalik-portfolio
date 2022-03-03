@@ -14,7 +14,7 @@ Throughout my career I've given presentations in which I had to create data visu
 # Portfolio
 ## Assignments 
 ### Visualizing Government Debt
-[View Visualizations](https://lzak88.github.io/zakalik-portfolio/datavizhw2.html)
+[View Assignment](https://lzak88.github.io/zakalik-portfolio/datavizhw2.html)
 
 ### Critique By Design
 [View Assignment](https://lzak88.github.io/zakalik-portfolio/hw3-4.html)
