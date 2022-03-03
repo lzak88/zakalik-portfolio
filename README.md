@@ -14,20 +14,20 @@ Throughout my career I've given presentations in which I had to create data visu
 # Portfolio
 ## Assignments 
 ### 1. Visualizing Government Debt
-[View Assignment](https://lzak88.github.io/zakalik-portfolio/datavizhw2.html)
+* [View Assignment](https://lzak88.github.io/zakalik-portfolio/datavizhw2.html)
 
 ### 2. Critique By Design
-[View Assignment](https://lzak88.github.io/zakalik-portfolio/hw3-4.html)
+* [View Assignment](https://lzak88.github.io/zakalik-portfolio/hw3-4.html)
 
 ## Final Project
 ### 1. Part One
-[View Assignment](https://lzak88.github.io/zakalik-portfolio/final-project-part-1.html)
+* [View Assignment](https://lzak88.github.io/zakalik-portfolio/final-project-part-1.html)
 
 ### 2. Part Two
-[View Assignment](https://lzak88.github.io/zakalik-portfolio/final-project-part-2.html)
+* [View Assignment](https://lzak88.github.io/zakalik-portfolio/final-project-part-2.html)
 
 ### 3. Part Three
-[View Assignment](https://lzak88.github.io/zakalik-portfolio/final-project-part-3.html)
+* [View Assignment](https://lzak88.github.io/zakalik-portfolio/final-project-part-3.html)
 
 ## Shorthand Data Story
 Read ["COVID-19, Mass Incarceration, and Community Spread"](https://carnegiemellon.shorthandstories.com/mass-incarceration-and-the-covid-19-pandemic/index.html)
