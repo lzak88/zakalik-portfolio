@@ -13,20 +13,20 @@ Throughout my career I've given presentations in which I had to create data visu
 
 # Portfolio
 ## Assignments 
-### Visualizing Government Debt
+### 1. Visualizing Government Debt
 [View Assignment](https://lzak88.github.io/zakalik-portfolio/datavizhw2.html)
 
-### Critique By Design
+### 2. Critique By Design
 [View Assignment](https://lzak88.github.io/zakalik-portfolio/hw3-4.html)
 
 ## Final Project
-### Part One
+### 1. Part One
 [View Assignment](https://lzak88.github.io/zakalik-portfolio/final-project-part-1.html)
 
-### Part Two
+### 2. Part Two
 [View Assignment](https://lzak88.github.io/zakalik-portfolio/final-project-part-2.html)
 
-### Part Three
+### 3. Part Three
 [View Assignment](https://lzak88.github.io/zakalik-portfolio/final-project-part-3.html)
 
 ## Shorthand Data Story
