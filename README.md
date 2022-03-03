@@ -34,4 +34,4 @@ Throughout my career I've given presentations in which I had to create data visu
 
 **Shorthand Data Story**
 
-[Read "COVID-19, Mass Incarceration, and Community Spread](https://carnegiemellon.shorthandstories.com/mass-incarceration-and-the-covid-19-pandemic/index.html)
+Read ["COVID-19, Mass Incarceration, and Community Spread"](https://carnegiemellon.shorthandstories.com/mass-incarceration-and-the-covid-19-pandemic/index.html)
