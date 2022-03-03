@@ -1,6 +1,6 @@
 # Final Project Part Three
 
-Visit the Final Project Parts [One](https://lzak88.github.io/zakalik-portfolio/final-project-part-1.html) and [Two](https://lzak88.github.io/zakalik-portfolio/final-project-part-2.html)
+Visit the Final Project Parts [One](https://lzak88.github.io/zakalik-portfolio/final-project-part-1.html) and [Two](https://lzak88.github.io/zakalik-portfolio/final-project-part-2.html) pages
 
 Return to the [main portfolio page](https://lzak88.github.io/zakalik-portfolio/)
 
