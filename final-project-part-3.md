@@ -1,8 +1,8 @@
 # Final Project Part Three
 
-View Final Project Parts [One](https://lzak88.github.io/zakalik-portfolio/final-project-part-1.html) and [Two](https://lzak88.github.io/zakalik-portfolio/final-project-part-2.html)
+Visit the Final Project Parts [One](https://lzak88.github.io/zakalik-portfolio/final-project-part-1.html) and [Two](https://lzak88.github.io/zakalik-portfolio/final-project-part-2.html)
 
-Head back to the [main portfolio page](https://lzak88.github.io/zakalik-portfolio/)
+Return to the [main portfolio page](https://lzak88.github.io/zakalik-portfolio/)
 
 View the Shorthand story, [COVID-19, Mass Incarceration, and Community Spread](https://carnegiemellon.shorthandstories.com/mass-incarceration-and-the-covid-19-pandemic/index.html)
 
