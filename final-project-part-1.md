@@ -1,4 +1,4 @@
-# Final Project: Part One
+# Final Project Part One
 Return to the [main portfolio page](https://lzak88.github.io/zakalik-portfolio/)
 
 ## Outline
