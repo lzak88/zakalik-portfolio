@@ -12,26 +12,22 @@ Outside of school and work, I enjoy hiking, rock climbing, running, drawing, and
 Throughout my career I've given presentations in which I had to create data visualizations for people all along the spectrum of data literacy. I anticipate continuing to do that once I graduate from Heinz. I'm hoping that through this class I can add some interesting and intuitive data visualization techniques to my toolbelt. Specifically, I'd like to learn about strategies for determining when to use certain visualizations over others in order to make the data being presented more digestable for an audience. 
 
 # Portfolio
-**Assignment: Visualizing Government Debt**
-
+## Assignments 
+### Visualizing Government Debt
 [View Visualizations](https://lzak88.github.io/zakalik-portfolio/datavizhw2.html)
 
-**Assignment: Critique By Design**
-
+### Critique By Design
 [View Assignment](https://lzak88.github.io/zakalik-portfolio/hw3-4.html)
 
-**Final Project Part One**
-
+## Final Project
+### Part One
 [View Assignment](https://lzak88.github.io/zakalik-portfolio/final-project-part-1.html)
 
-**Final Project Part Two**
-
+### Part Two
 [View Assignment](https://lzak88.github.io/zakalik-portfolio/final-project-part-2.html)
 
-**Final Project Part Three**
-
+### Part Three
 [View Assignment](https://lzak88.github.io/zakalik-portfolio/final-project-part-3.html)
 
-**Shorthand Data Story**
-
+## Shorthand Data Story
 Read ["COVID-19, Mass Incarceration, and Community Spread"](https://carnegiemellon.shorthandstories.com/mass-incarceration-and-the-covid-19-pandemic/index.html)
